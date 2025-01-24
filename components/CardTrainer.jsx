@@ -1,0 +1,1 @@
+{CARDS_ORDER et le reste du code du composant CardTrainer que nous avons développé précédemment}
